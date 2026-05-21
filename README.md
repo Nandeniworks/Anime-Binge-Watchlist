@@ -1,21 +1,28 @@
-<<<<<<< HEAD
-# React + Vite
+# Anime Binge Watchlist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Anime Binge Watchlist is a modern anime tracking web app built using React and Tailwind CSS. Users can browse anime shows, manage favorites, maintain a watchlist, track episode progress, and switch between dark and light themes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Anime catalog with real anime posters
+- Watchlist management
+- Favorites system
+- Episode progress tracking
+- Genre filtering
+- Search functionality
+- Dark and Light mode UI
+- Responsive modern anime-inspired design
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React JS
+- Tailwind CSS
+- Context API
+- Vite
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Anime-Binge-Watchlist
-=======
-# Anime-Binge-Watchlist
->>>>>>> a284db616b82342e8a5c8fec372f4b130a0423cc
+Clone the repository:
+
+```bash
+git clone https://github.com/Nandeniworks/Anime-Binge-Watchlist.git
