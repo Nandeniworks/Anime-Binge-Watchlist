@@ -26,3 +26,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Nandeniworks/Anime-Binge-Watchlist.git
+
+Author
+
+Nandeniworks
